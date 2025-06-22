@@ -2,7 +2,11 @@
 
 This is my personal hybrid training plan, structured around progressive overload, mobility, and active recovery. Each day combines mobility, strength, or cardio in a way that supports high performance and mental clarity.
 
----
+## 🚶‍♂️ Daily Walk Steps
+
+I try to get close to **10,000 steps per day**, but it's not always possible.
+
+If there's a running session that day, I usually hit it easily.Otherwise, I hover between **8,000–10,000 steps daily** — mostly thanks to my dog 🐶.
 
 ## 🗓 Day 1 – Push (Strength) + Mobility
 
@@ -26,7 +30,7 @@ This is my personal hybrid training plan, structured around progressive overload
 ## 🚴‍♂️ Day 2 – Pull (Hypertrophy) + Zone 2 Cardio
 
 **Zone 2 Cardio**
-- Bike – 45–60 min @ 60–70% HRmax
+- Bike / Running – 45–60 min @ 60–70% HRmax
 
 **Pull – Hypertrophy**
 - Pull-ups – 4x8–12
@@ -111,7 +115,7 @@ This is my personal hybrid training plan, structured around progressive overload
 - Light core: planks, basic crunches
 
 **Active Rest**
-- Light walk – 30–60 min
+- Light walk / Running Zone 2 – 30–60 min
 - Free movement and breathwork
 
 ---
