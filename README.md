@@ -76,7 +76,7 @@ This is my personal hybrid training plan, structured around progressive overload
 ## 🧲 Day 5 – Pull (Strength) + Zone 2 Cardio
 
 **Zone 2 Cardio**
-- Jog or Bike – 45–60 min @ 60–70% HRmax
+- Running 45–60 min @ 60–70% HRmax
 
 **Pull – Strength**
 - Weighted Pull-ups – 5x5–6
