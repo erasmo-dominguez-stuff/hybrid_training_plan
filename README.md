@@ -26,7 +26,7 @@ This is my personal hybrid training plan, structured around progressive overload
 ## 🚴‍♂️ Day 2 – Pull (Hypertrophy) + Zone 2 Cardio
 
 **Zone 2 Cardio**
-- Bike with Neizan – 45–60 min @ 60–70% HRmax
+- Bike – 45–60 min @ 60–70% HRmax
 
 **Pull – Hypertrophy**
 - Pull-ups – 4x8–12
