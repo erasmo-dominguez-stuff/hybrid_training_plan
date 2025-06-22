@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Hybrid Training Plan – Sequential (Cardio & Hypertrophy)
+# 🏋️‍♂️ Hybrid Training Plan – Sequential (Cardio & Hypertrophy) (June - September 2025)
 
 This is my personal hybrid training plan, structured around progressive overload, mobility, and active recovery. Each day combines mobility, strength, or cardio in a way that supports high performance and mental clarity.
 
