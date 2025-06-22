@@ -23,10 +23,10 @@ This is my personal hybrid training plan, structured around progressive overload
 
 ---
 
-## 🗓 Day 2 – Pull (Hypertrophy) + Zone 2 Cardio
+## 🚴‍♂️ Day 2 – Pull (Hypertrophy) + Zone 2 Cardio
 
 **Zone 2 Cardio**
-- Running 45–60 min @ 60–70% HRmax
+- Bike with Neizan – 45–60 min @ 60–70% HRmax
 
 **Pull – Hypertrophy**
 - Pull-ups – 4x8–12
@@ -37,7 +37,7 @@ This is my personal hybrid training plan, structured around progressive overload
 
 ---
 
-## 🗓 Day 3 – Legs (Strength) + Core + Mobility
+## 🦵 Day 3 – Legs (Strength) + Core + Mobility
 
 **Mobility + Light Core**
 - Dynamic stretches – 10–15 min
@@ -55,7 +55,7 @@ This is my personal hybrid training plan, structured around progressive overload
 
 ---
 
-## 🗓 Day 4 – Push (Hypertrophy) + Mobility
+## 💪 Day 4 – Push (Hypertrophy) + Mobility
 
 **Mobility / Stretching**
 - Light full-body mobility – 20 min
@@ -73,7 +73,7 @@ This is my personal hybrid training plan, structured around progressive overload
 
 ---
 
-## 🗓 Day 5 – Pull (Strength) + Zone 2 Cardio
+## 🧲 Day 5 – Pull (Strength) + Zone 2 Cardio
 
 **Zone 2 Cardio**
 - Jog or Bike – 45–60 min @ 60–70% HRmax
@@ -87,7 +87,7 @@ This is my personal hybrid training plan, structured around progressive overload
 
 ---
 
-## 🗓 Day 6 – Arms + Core (Optional) + Mobility
+## 🌿 Day 6 – Arms + Core (Optional) + Mobility
 
 **Mobility / Active Recovery**
 - Light walk – 30–45 min
@@ -113,3 +113,66 @@ This is my personal hybrid training plan, structured around progressive overload
 **Active Rest**
 - Light walk – 30–60 min
 - Free movement and breathwork
+
+---
+
+## 📌 Premises and Context Before You Start
+
+Before you dive into this plan or think of copying it, here are a few things that matter even more than the reps and sets:
+
+### 0. Adaptation and Variety Are Built In
+
+I love to **change things up** — not just to avoid plateaus, but to make training more fun and complete.
+
+Sometimes I go through phases where I train like a maniac on strength (high load, low reps), so I lower cardio intensity and switch to Zone 2 runs. Other times, I’m all about trail running, intervals, or pure hypertrophy.
+
+I believe in *seasons*, not rigidity. That’s how I keep improving — and enjoying it.
+
+---
+
+### 1. There Are No Fixed Days (Life Happens)
+
+This plan isn’t locked into “Monday = Chest”, “Tuesday = Legs” mode.
+
+I follow a **sequence**, not a calendar.  
+If I miss a day (rare, but it happens), I just continue where I left off.
+
+**Life is complex. Flexibility is power.**
+
+---
+
+### 2. Energy Levels Aren’t Constant (And That’s Okay)
+
+Some days you’re on fire.  
+Other days you’re fried.
+
+Sometimes I shift sessions around depending on energy, sleep, or recovery. If I feel something off — I listen, adjust, and keep going.
+
+> Think Agile for training: iteration, feedback, and responsiveness.
+
+---
+
+### 3. I’m Not David Goggins (Nor Trying to Be)
+
+I’m not an influencer.  
+I’m not a Navy SEAL.  
+I’m just someone who values consistency and curiosity.
+
+I try to understand what my body tells me.  
+Some days I rest. Some weekends I skip training and hang out with friends. That’s part of the plan too.
+
+No guilt. Just flow.
+
+---
+
+### 4. Don’t Do This Alone at Home Without Progression
+
+The worst thing you can do is copy this plan without context or ramp-up.
+
+🏁 **Start small.**  
+⬆️ **Increase progressively.**  
+🧠 **Learn your own signals.**
+
+
+⚠️ Use this plan as inspiration, not gospel.  
+**Listen to your body. And make it fun.**
