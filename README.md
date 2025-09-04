@@ -106,3 +106,19 @@ Options:
 **Goal:** Endurance building and trail simulation.  
 
 - Trail run: 10–12 km mountain or elevation (progressive pace)  
+
+---
+
+## Supplementation
+- **Morning:** Creatine, Chondroitin + Glucosamine  
+- **Evening:** Magnesium Citrate, Omega 3, Vitamin C  
+
+---
+
+## Overall Goals
+- Progression in **mobility**  
+- Progression in **aerobic endurance**  
+- Maintain and consolidate **strength levels**  
+- Trail race preparation:  
+  - [Tamadaba Trail 12K](https://tamabadatrail.com/)  
+  - [Transgrancanaria Trail Half 23K](https://transgrancanaria.net/en/)  
